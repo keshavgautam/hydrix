@@ -1,0 +1,15 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "rootDir": ".",
+    "noEmit": true,
+    "declaration": false,
+    "declarationMap": false,
+    "paths": {
+      "hydrix": ["./src/index.ts"],
+      "hydrix/server": ["./src/server.ts"],
+      "hydrix/client": ["./src/client.ts"]
+    }
+  },
+  "include": ["src", "example"]
+}
