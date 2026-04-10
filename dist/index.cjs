@@ -1,2 +1,0 @@
-"use strict";Object.defineProperty(exports,Symbol.toStringTag,{value:"Module"});const t=require("./jsx-runtime-C2yK6HZh.cjs"),e=require("./hydrate-CoOGvFzh.cjs"),o=require("react-router-dom");exports.SSRDataContext=t.SSRDataContext;exports.HydrixRoutes=e.HydrixRoutes;exports.mountApp=e.mountApp;exports.useData=e.useData;exports.useNavigateTo=e.useNavigateTo;Object.defineProperty(exports,"useLocation",{enumerable:!0,get:()=>o.useLocation});
-//# sourceMappingURL=index.cjs.map
